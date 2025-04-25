@@ -2,7 +2,7 @@
 This repo is licensed under CC BY-SA 4.0, with credits to @user691586 on TeX.StackExchange for coming up with this approach, even though I did some nontrivial stuff.
 # XeLaTeXSansMath
 Sans Serif Math in XeLaTeX / LuaLaTeX. Here's how you do it:
-```
+```latex
 \documentclass{article}
 \usepackage{tikz}
 \usepackage{unicode-math}
